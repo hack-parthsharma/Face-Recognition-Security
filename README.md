@@ -31,7 +31,4 @@ Else run 'python Protect.py'
 
 • Connect to the Google Android Find My Phone and Click the Ring the Phone Button and Lock the Screen.
 
-![github-small](phone.png)
-
-
 
